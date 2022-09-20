@@ -13,7 +13,7 @@ logo = f"""
         \/    |__|              \/       \/      
                                                  
  {Fore.RESET}
-{Fore.MAGENTA}Team_Member: Aqtic0l, Warhammr, S4IT4M402, 
+{Fore.MAGENTA}Publisher: Aqtic0l - Unkn0wn3r 
 
 """
 
