@@ -2,7 +2,7 @@
 #!/usr/bin/env python3
 from colorama import Fore, Back, Style
 from random import choice
-from os import os, system
+import os
 
 os.system('clear')
 
