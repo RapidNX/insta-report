@@ -14,6 +14,7 @@ logo = f"""
                                                  
  {Fore.RESET}
 {Fore.MAGENTA}Publisher: Aqtic0l - Unkn0wn3r 
+Discord: https://discord.gg/9zwgZaWHFr
 
 """
 
