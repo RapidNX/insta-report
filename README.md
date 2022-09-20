@@ -32,27 +32,33 @@ FUNCTIONS:
 ### Prerequisites
 
 Clone the Repository
-* Git clone
+* Install Python3
   ```sh
-  git clone https://github.com/Aqtic0l/Insta-Report.git
+  $ apt install python3
   ```
 
 ### Installation
 
 _Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
 
-1. Get a free API Key at [https://example.com](https://example.com)
+
 2. Clone the repo
    ```sh
-   git clone https://github.com/your_username_/Project-Name.git
+    $ git clone https://github.com/Aqtic0l/Insta-Report.git
    ```
-3. Install NPM packages
+4. Go to the Folder
+    ```sh
+    $ cd Insta-Report
+    ```   
+7. Install the Requirements.txt
    ```sh
-   npm install
+   $ pip install -r requirements.txt
    ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
+4. Run the `insta.py`
+   ```sh
+   python3 insta.py
    ```
+   
+   ![Alt Text](https://i.ibb.co/6XpKy3D/banner-nulled.gif)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
