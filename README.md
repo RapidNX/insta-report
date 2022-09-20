@@ -59,6 +59,6 @@ _Below is an example of how you can instruct your audience on installing and set
    python3 insta.py
    ```
    
-   ![Alt Text](https://i.ibb.co/6XpKy3D/banner-nulled.gif)
+   ![Alt Text](https://i.ibb.co/LtzRj7m/Screenshot-28.png)
 
 
