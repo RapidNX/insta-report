@@ -25,5 +25,5 @@ Discord: https://discord.gg/9zwgZaWHFr
 
 def print_logo():
     print(Fore.RED + Style.BRIGHT + logo + Style.RESET_ALL + Style.BRIGHT +"\n")
-    print(Fore.MAGENTA + "Code by 500 Sec Team"+ Style.RESET_ALL + Style.BRIGHT)
+    print(Fore.MAGENTA + "Code by p4r4d0x Sec Team"+ Style.RESET_ALL + Style.BRIGHT)
     
